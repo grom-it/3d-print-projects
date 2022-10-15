@@ -28,7 +28,7 @@ Print all the parts. Everything than the O-rings can be printed with PLA. If you
 
 Cut out disks of ~Ø50mm from the Velcro counterpart (use sanding disks as template) and glue them to the end caps.
 
-Apply rubber rings (printed or bought) and sanding disks. For more stability glue foam rubber mat at bottom of angle block.
+Apply rubber rings (printed or bought) and sanding disks. For more stability glue foam rubber mat to bottom of angle block.
 
 Use as recommended:
 https://www.horl.com/schaerferatgeber
