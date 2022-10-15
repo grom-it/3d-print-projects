@@ -34,6 +34,6 @@ Use as recommended:
 https://www.horl.com/schaerferatgeber
 
 
-## Next steps:
+## Next steps
 
-Next level: print the [PRO model](https://www.printables.com/de/model/212006-rolling-knife-sharpener-with-inbuilt-planetary-gea) with planetary gear which rotates the sanding disks with x3 speed.
+Next level: print the [PRO model](https://www.printables.com/de/model/212006-rolling-knife-sharpener-with-inbuilt-planetary-gea) with planetary gear which rotates the sanding disks at 3x speed.
